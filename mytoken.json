@@ -1,0 +1,8 @@
+{
+    "name": "志浩币",
+    "symbol": "TKN",
+    "description": "这是我的代币描述，可以添加项目介绍和用途说明。",
+    "image": "https://example.com/images/token-logo.png",
+    "external_url": "https://myproject.com",
+    "attributes": []
+  }
